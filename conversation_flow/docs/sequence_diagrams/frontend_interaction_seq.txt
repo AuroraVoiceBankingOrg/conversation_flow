@@ -1,0 +1,2 @@
+# frontend_interaction_seq.txt
+# Text notes or documentation.

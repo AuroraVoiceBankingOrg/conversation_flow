@@ -1,0 +1,2 @@
+# env_notes.txt
+# Text notes or documentation.

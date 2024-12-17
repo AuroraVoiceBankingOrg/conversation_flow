@@ -1,0 +1,2 @@
+# architecture_notes.txt
+# Text notes or documentation.

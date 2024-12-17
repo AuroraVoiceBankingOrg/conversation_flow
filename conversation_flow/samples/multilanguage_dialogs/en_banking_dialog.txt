@@ -1,0 +1,2 @@
+# en_banking_dialog.txt
+# Text notes or documentation.
